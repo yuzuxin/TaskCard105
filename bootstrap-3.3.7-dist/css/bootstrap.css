@@ -1598,6 +1598,7 @@ pre code {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
+  background-color:#f1f1f1;
 }
 @media (min-width: 768px) {
   .container {
@@ -1620,6 +1621,7 @@ pre code {
   margin-right: auto;
   margin-left: auto;
   width:80%;
+  background-color:#f1f1f1;
 }
 .row {
   margin-right: -15px;
@@ -4996,6 +4998,7 @@ a.badge:focus {
   padding-right: 15px;
   padding-left: 15px;
   border-radius: 6px;
+  background-color: white;
 }
 .jumbotron .container {
   max-width: 100%;
